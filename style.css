@@ -1,0 +1,133 @@
+.container{
+    display: grid;
+}
+
+.kv{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    z-index: 1;
+    transform: rotate(45deg);
+    margin-left: 500px;
+    margin-top: 250px;
+}
+
+.kv2{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    z-index: 1;
+    margin-left: 500px;
+    margin-top: -200px;
+    
+}
+
+.kryg{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    z-index: 1;
+    margin-left: 550px;
+    margin-top: -150px;
+    border-radius: 100%;
+
+}
+
+.line{
+    width: 282px;
+    height: 4px;
+    background-color: blue;
+    z-index: 1;
+    margin-left: 459px;
+    margin-top: -102px;
+}
+
+.line2{
+    width: 282px;
+    height: 4px;
+    background-color: blue;
+    z-index: 1;
+    margin-left: 459px;
+    margin-top: -102px;
+    transform: rotate(90deg);
+}
+
+.line3{
+    width: 282px;
+    height: 4px;
+    background-color: blue;
+    z-index: 1;
+    margin-left: 459px;
+    margin-top: -102px;
+    transform: rotate(45deg);
+}
+
+.line4{
+    width: 282px;
+    height: 4px;
+    background-color: blue;
+    z-index: 1;
+    margin-left: 459px;
+    margin-top: -102px;
+    transform: rotate(135deg);
+}
+
+.one{
+    color: green;
+    z-index: 1;
+    margin-top: -240px;
+    margin-left: 500px;
+
+
+}
+
+.two{
+    color: green;
+    z-index: 1;
+    margin-top: -240px;
+    margin-left: 640px;
+
+}
+
+.three{
+    color: green;
+    z-index: 1;
+    margin-left: 400px;
+    margin-top: -150px;
+
+}
+
+.four{
+    color: green;
+    z-index: 1;
+    margin-top: -150px;
+    margin-left: 730px;
+}
+
+.five{
+    color: green;
+    z-index: 1;
+    margin-left: 420px;
+    margin-top: -50px;
+}
+
+.six{
+    color: green;
+    z-index: 1;
+    margin-left: 710px;
+    margin-top: -50px;
+}
+
+.seven{
+    color: green;
+    z-index: 1;
+    margin-left: 460px;
+    margin-top: 20px;
+}
+
+.eight{
+    color: green;
+    z-index: 1;
+    margin-top: -20px;
+    margin-left: 680px;
+}
